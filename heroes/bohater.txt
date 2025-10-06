@@ -7,3 +7,9 @@ Imie:Shrek
 Świat:Shrek2
 Cecha:Zielony
 
+<<<<<<< HEAD
+=======
+Imię: Gandalf
+Świat: Hobbit
+Cecha: Sprytny
+>>>>>>> 6f86bac (Add heroes/bohater.txt)
