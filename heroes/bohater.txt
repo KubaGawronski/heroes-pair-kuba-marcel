@@ -1,3 +1,9 @@
+
 Imię: Gandalf
 Świat: Hobbit
 Cecha: Sprytny
+
+Imie:Shrek
+Świat:Shrek2
+Cecha:Zielony
+

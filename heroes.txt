@@ -1,3 +1,7 @@
 Lista bohaterów
 ---------------
+<<<<<<< HEAD
 Gandalf
+=======
+Shrek
+>>>>>>> d6f388b (Add bohater.txt)
