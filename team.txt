@@ -1,2 +1,5 @@
  Shrek
  Fiona
+Gandalf
+Habibi
+Zgredek
